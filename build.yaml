@@ -1,7 +1,7 @@
 ---
 name: "Media Cleaner"
 guid: "607fee77-97eb-41fe-bf22-26844d99ffb0"
-version: "2.24.0.0"
+version: "2.25.0.0"
 targetAbi: "10.11.3.0"
 framework: "net9.0"
 overview: "Delete played media after specified time"
